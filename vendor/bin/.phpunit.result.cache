@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"SimpleTest::testTrueIsTrue":0.003,"AddCustomerTest::testAddNewCustomer":0.018,"AddCustomerTest::testCheckUsernameExistence":0.001,"AddCustomerTest::testCheckPhoneExistence":0.001,"AddCustomerTest::testCheckEmailExistence":0.001,"AddCustomerTest::testCheckCMNDExistence":0.001}}
